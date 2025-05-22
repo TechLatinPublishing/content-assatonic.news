@@ -18,3 +18,7 @@ vyoumanstech@gmail.com
 git config user.email 47495+vinceyoumans@users.noreply.github.com
 
 
+---  making a module
+
+hugo mod init github.com/yourusername/your-module-name
+hugo mod init github.com/yourusername/your-module-name
